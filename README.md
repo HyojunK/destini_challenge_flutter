@@ -1,16 +1,8 @@
-# destini_challenge_flutter
+# Destini App 📖 :trav
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
+* A simple text adventure game application
 
-A new Flutter project.
+<br/>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📷 Preview
+![2023-06-10 20 10 51](https://github.com/HyojunK/destini_challenge_flutter/assets/26563226/1e139a2b-35bb-4644-8575-109b5cd3e38c)
